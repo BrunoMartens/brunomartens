@@ -1,0 +1,6 @@
+@brunomartens.web_HostAddress = http://localhost:5108
+
+GET {{brunomartens.web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
